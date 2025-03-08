@@ -6,7 +6,7 @@
 import zipfile
 
 # Path to the zip file
-zip_file = "<path to .zip file directory>"  # Correct path to .zip file
+zip_file = "<replace with path to .zip file directory>"  # Correct path to <.zip file>
 
 # Path to the dictionary file
 dict_file = "/home/kali/dictionary.txt"  # Correct path to dictionary file
